@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c244325b-68ac-444a-a500-5e8806491534" name="Changes" comment="Subscriber interface added">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patternExample/NewGameNotificator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patternExample/subscribers/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patternExample/subscribers/GameReviewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patternExample/subscribers/Gamer.java" afterDir="false" />
+    <list default="true" id="c244325b-68ac-444a-a500-5e8806491534" name="Changes" comment="Notificator was realized">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/patternExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patternExample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/patternExample/Subscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patternExample/subscribers/Subscriber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676493683314</updated>
-      <workItem from="1676493685172" duration="7270000" />
+      <workItem from="1676493685172" duration="8545000" />
     </task>
     <task id="LOCAL-00001" summary="Rename project">
       <created>1676537535948</created>
@@ -103,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676539527265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Subscribers package realized">
+      <created>1676543054665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676543054665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Notificator was realized">
+      <created>1676543192254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676543192254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,8 @@
     <MESSAGE value="Rename project" />
     <MESSAGE value="Game class realization added" />
     <MESSAGE value="Subscriber interface added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subscriber interface added" />
+    <MESSAGE value="Subscribers package realized" />
+    <MESSAGE value="Notificator was realized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notificator was realized" />
   </component>
 </project>

@@ -24,8 +24,8 @@ public class Gamer implements Subscriber {
         result.append(name);
         result.append("\nTitle : ");
         result.append(newGame.getName());
-        result.append("\nAchievements: ");
-        receivedAchievements.forEach(el -> result.append(el).append(" "));
+        result.append("\nAchievements: ||");
+        receivedAchievements.forEach(el -> result.append(el).append(" || "));
         result.append('\n');
         System.out.println(result);
     }
